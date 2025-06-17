@@ -17,9 +17,10 @@ Este repositorio contiene el código y los datos utilizados para el Trabajo de F
 ## Material proporcionado
 - Jupyter Notebook de la experimentación con el conjunto de datos de células cerebrales (Darmanis) en formato .ipynb y HTML
 - Jupyter Notebook de la experimentación con el conjunto de datos de células de sangre periférica (PBMC3k) en formato .ipynb y HTML
-- Archivos CSV con la información de las etiquetas y conteo de la expresión génica del conjunto de datos Darmanis
+- Archivos CSV con la información de las etiquetas y conteo de la expresión génica del conjunto de datos Darmanis.
+
 El conjunto de datos PBMC3k ha sido implementado usando una función de Scanpy (sc.datasets.pbmc3k()) 
-- 
+  
 
 ![image](https://github.com/user-attachments/assets/e40952f8-5aa2-4b2e-a7a3-28f17b239e34)
 (Flujo de ejecución de scNovel y su estructura)
