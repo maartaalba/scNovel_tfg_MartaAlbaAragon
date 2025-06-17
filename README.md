@@ -7,7 +7,7 @@ Este repositorio contiene el código y los datos utilizados para el Trabajo de F
 - Preprocesamiento de datos scRNA-seq
 - Clustering no supervisado
 - Implementación y evaluación de scNovel
-- Cálculo de métricas como AUROC
+- Cálculo de métricas (AUROC)
 
 ## Requisitos
 - Python 3.10
