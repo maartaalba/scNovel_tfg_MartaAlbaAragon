@@ -15,4 +15,4 @@ Este repositorio contiene el código y los datos utilizados para el Trabajo de F
 - scNovel
 
 ![image](https://github.com/user-attachments/assets/e40952f8-5aa2-4b2e-a7a3-28f17b239e34)
-
+(Flujo de ejecución de scNovel y su estructura)
